@@ -1,4 +1,4 @@
-# Fundamental course of  C programming language : solved exercises
+# Fundamental course of the C programming language : solved exercises
 In this course we will learn about the following fundamentals with exercises solved in the most fundamental language:
 - Concept of data and information;
 - Structure of a program. Exercises;
