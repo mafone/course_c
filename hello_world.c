@@ -1,8 +1,8 @@
-#include <stdio.h>
+//Header
+#include <stdio.h> //Include the library to allow us the use of printf
 
-int main()
-{
-    printf("Hello guys!");
-
-    return 0;
-}
+//Main program
+void main()
+{ //Begin
+    printf("Hello guys!"); //Show some welcome message
+} //End
