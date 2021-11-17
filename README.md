@@ -13,3 +13,4 @@ In this course we will learn about the following fundamentals with exercises sol
 - Pointers;
 - Dynamic memory allocation;
 - Functions.
+- Customized types (Typedef, Enum, Union, Struct)
